@@ -4,11 +4,6 @@ import '../../../../shared_components/header_text.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
-// binding
-part '../../bindings/dashboard_binding.dart';
-
-// controller
-part '../../controllers/dashboard_controller.dart';
 
 // model
 

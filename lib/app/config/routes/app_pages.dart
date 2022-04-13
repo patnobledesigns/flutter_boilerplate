@@ -1,4 +1,5 @@
-import '../../features/dashboard/views/screens/dashboard_screen.dart';
+import 'package:template/app/modules/dashboard/bindings/dashboard_binding.dart';
+import 'package:template/app/modules/dashboard/views/screens/dashboard_screen.dart';
 import 'package:get/get.dart';
 
 part 'app_routes.dart';
